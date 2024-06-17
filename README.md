@@ -5,4 +5,5 @@ Tiek izmantoti GPIO, UART_RX, TIMER interupti.
 
 board un cc2500 faili tika jau piedāvāti, bet jāmāk paskaidrot noteiktas darbības tajos.  
 Darbs tikai veikts izmantojot Texas Instruments, uz Eclipse balstītu, IDE, lai kompilētu un ierakstītu programmu atmiņā.  
+
 Kods rakstīts izmantojot tikai datu lapas. Konfigurāciju opcijas izvēlētas balstoties arī uz MSP430 moduļu shēmām.
